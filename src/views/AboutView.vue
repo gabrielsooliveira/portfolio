@@ -1,5 +1,11 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <p class="text-lg">About View</p>
   </div>
 </template>
+
+<script>
+export default {
+  name: 'AboutView',
+}
+</script>
