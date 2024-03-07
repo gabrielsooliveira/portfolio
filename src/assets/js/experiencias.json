@@ -1,0 +1,62 @@
+{
+    "experiencias_academicas": [
+      {
+        "cargo": "membro da liga de programação em c",
+        "instituicao": "unifacs",
+        "inicio": "fev 2017",
+        "final": "nov 2017",
+        "descricao": "Fui membro da liga acadêmica de linguagem de programação C, estando presente na equipe de professores em certo momento durante a passagem pela liga. Na liga eram realizados exercícios em C, além de desafios em que se criava um ambiente de grupo e também de troca de conhecimento das pessoas."
+      },
+      {
+        "cargo": "voluntário",
+        "instituicao": "pure startup",
+        "inicio": "mar 2018",
+        "final": "jun 2018",
+        "descricao": "Fui membro da liga acadêmica de linguagem de programação C, estando presente na equipe de professores em certo momento durante a passagem pela liga. Na liga eram realizados exercícios em C, além de desafios em que se criava um ambiente de grupo e também de troca de conhecimento das pessoas."
+      },
+      {
+        "cargo": "projetista do núcleo de t.i",
+        "instituicao": "praxis empresa jr",
+        "inicio": "jan 2018",
+        "final": "jul 2019",
+        "descricao": "Fui membro da liga acadêmica de linguagem de programação C, estando presente na equipe de professores em certo momento durante a passagem pela liga. Na liga eram realizados exercícios em C, além de desafios em que se criava um ambiente de grupo e também de troca de conhecimento das pessoas."
+      },
+      {
+        "cargo": "diretor de marketing e vendas",
+        "instituicao": "praxis empresa jr",
+        "inicio": "jan 2019",
+        "final": "jul 2019",
+        "descricao": "Com foco em conhecer novas áreas e testar o senso de adaptação à uma nova realidade, atuei no cargo de diretor de Marketing e vendas, onde consegui desenvolver ainda mais minhas skills de liderança e de trabalho em equipe, além de expandir o networking e soft skills necessárias para o mercado de trabalho."
+      },
+      {
+        "cargo": "assessor de comunicação",
+        "instituicao": "nej salvador",
+        "inicio": "abr 2019",
+        "final": "jul 2019",
+        "descricao": "Integrei o primeiro time do Núcleo de Empresas Juniores de Salvador, onde desempenhei um papel na área de comunicação e mídias sociais. Minhas responsabilidades incluíram a gestão de anúncios do núcleo e a criação de conteúdo."
+      }
+    ],
+    "experiencias_profissionais": [
+      {
+        "cargo": "desenvolvedor web e mobile",
+        "instituicao": "ga software",
+        "inicio": "fev 2021",
+        "final": "nov 2021",
+        "descricao": "Na GA Software, empresa de desenvolvimento de sistemas, atuei como desenvolvedor web front-end em todos sistemas dos produtos da LS System da empresa e atuei no back-end de alguns desses sistemas utilizando do framework de PHP, Laravel. Já no desenvolvimento mobile fiquei a cargo do front-end nos aplicativos Confia, B.I Metas e Guia Pessoal utilizando as linguagens Quasar e React Native."
+      },
+      {
+        "cargo": "analista de sistemas jr",
+        "instituicao": "acp group",
+        "inicio": "nov 2022",
+        "final": "nov 2022",
+        "descricao": "Trabalhei na equipe de sustentação para sistema da PRODEB e na equipe de desenvolvimento da Prefeitura de Camaçari. Eu utilizei Kanban, Scrum como metodologias ágeis e Docker para gerenciamento de containers. Utilizo para produção da modelagem do banco de dados Microsoft SQL Server e para o desenvolvimento de telas trabalhei com Vue e serviços utilizando o Laravel."
+      },
+      {
+        "cargo": "analista de sistemas pl",
+        "instituicao": "prefeitura de salvador",
+        "inicio": "nov 2022",
+        "final": "",
+        "descricao": "Na controladoria geral do município, órgão central do sistema de controle interno. Atuo no desenvolvimento fullstack de sistemas com foco em PHP, Laravel, Vue.js e Oracle. Junto com a equipe produzimos Api’s e sistemas para melhorias na gestão financeira do município."
+      }
+    ]
+}
