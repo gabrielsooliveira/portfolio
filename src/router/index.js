@@ -1,5 +1,6 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import HomeView from '../views/HomeView.vue'
+import ProjectsView from '../views/ProjectsView.vue'
 
 const routes = [
   {
@@ -9,12 +10,10 @@ const routes = [
     meta: { title: 'Gabriel Dev - Inicio' }
   },
   {
-    path: '/about',
-    name: 'about',
-    // route level code-splitting
-    // this generates a separate chunk (about.[hash].js) for this route
-    // which is lazy-loaded when the route is visited.
-    component: () => import(/* webpackChunkName: "about" */ '../views/AboutView.vue')
+    path: '/projects',
+    name: 'projects',
+    component: ProjectsView,
+    meta: { title: 'Gabriel Dev - Projetos' }
   }
 ]
 
@@ -24,7 +23,7 @@ const router = createRouter({
 });
 
 router.beforeEach((to, from, next) => {
-  document.title = to.meta.title || 'Título Padrão';
+  document.title = to.meta.title || 'Gabriel Dev';
   next();
 });
 
