@@ -1,45 +1,45 @@
 <template>
   <main>
-    <section class="body-font pt-12 md:pt-24">
-      <div class="container px-5 mx-auto flex flex-wrap bg-gray-100 rounded-lg flex-col md:ml-auto w-full">
+    <section class="body-font pt-12 lg:py-24 bg-zinc-50 dark:bg-zinc-900">
+      <div class="w-full container px-5 mx-auto flex flex-wrap flex-col bg-gradient-to-r from-indigo-800 to-indigo-950 dark:from-teal-800 dark:to-teal-950 lg:ml-auto lg:rounded-lg">
         <div class="flex flex-wrap w-full">
-          <div class="sm:w-1/3 w-full content-start rounded-lg overflow-hidden mt-6 sm:mt-0 p-20">
-            <img src="@/assets/images/perfil.png" class="size-full rounded-full border-8 border-teal-900"/>
+          <div class="lg:w-1/3 w-full content-start rounded-lg overflow-hidden mt-6 lg:mt-0 p-16 grid justify-items-center">
+            <img src="@/assets/images/perfil.png" class="sm:size-64 rounded-full border-8 border-indigo-50"/>
           </div>
-          <div class="sm:w-2/3 sm:pr-10 flex flex-wrap -mx-4 mt-auto mb-auto">
-            <div class="w-full sm:p-4 px-4 mb-6">
-              <h1 class="title-font font-medium text-xl mb-2 text-teal-900">Eu sou Gabriel Souza Oliveira, um desenvolvedor fullstack</h1>
+          <div class="lg:w-2/3 lg:pr-10 flex flex-wrap -mx-4 mt-auto mb-auto">
+            <div class="w-full lg:p-4 px-4 mb-6 text-zinc-100">
+              <h1 class="title-font font-medium text-xl mb-2">Eu sou Gabriel Souza Oliveira, um desenvolvedor fullstack</h1>
               <div class="leading-relaxed">Atuando na área há quase 7 anos, comecei a programar desde 2017. Desenvolvi vários projetos para empresas em que estive presente. Hoje estou terminando minha formação em ciências da computação e trabalhando como desenvolvedor fullstack com stacks principais sendo  Vue.js e PHP/Laravel.</div>
             </div>
             <div class="p-4 w-1/3 text-center">
-              <h2 class="title-font font-medium text-3xl text-teal-900">+3</h2>
-              <p class="leading-relaxed">Experiências profissional</p>
+              <h2 class="title-font font-medium text-3xl text-teal-500 dark:text-indigo-500">+3</h2>
+              <p class="leading-relaxed text-zinc-100 dark:text-zinc-100">Experiências profissional</p>
             </div>
             <div class="p-4 w-1/3 text-center">
-              <h2 class="title-font font-medium text-3xl text-teal-900">+10</h2>
-              <p class="leading-relaxed">Projetos realizados</p>
+              <h2 class="title-font font-medium text-3xl text-teal-500 dark:text-indigo-500">+10</h2>
+              <p class="leading-relaxed text-zinc-100 dark:text-zinc-100">Projetos realizados</p>
             </div>
             <div class="p-4 w-1/3 text-center">
-              <h2 class="title-font font-medium text-3xl text-teal-900">3</h2>
-              <p class="leading-relaxed">Empresas trabalhadas</p>
+              <h2 class="title-font font-medium text-3xl text-teal-500 dark:text-indigo-500">3</h2>
+              <p class="leading-relaxed text-zinc-100 dark:text-zinc-100">Empresas trabalhadas</p>
             </div>
           </div>
         </div>
       </div>
     </section>
 
-    <section class="body-font" id="experiencias">
+    <section class="body-font bg-zinc-50 dark:bg-zinc-900">
       <div class="container px-5 py-12 mx-auto flex flex-wrap">
-        <h3 class="sm:text-5xl text-4xl font-bold">Minhas experiências <span class="text-teal-600 font-bold">.</span></h3>
+        <h3 class="lg:text-5xl text-4xl font-bold text-indigo-800 dark:text-teal-600">Minhas experiências <span class="text-teal-400 font-bold dark:text-indigo-600">.</span></h3>
         <div class="flex flex-wrap w-full">
-          <div class="lg:w-3/6 md:w-1/2 md:pr-10 md:py-6">
-            <h4 class="sm:text-2xl text-3xl mt-8">Profissionais</h4>
-            <div class="h-1 w-20 bg-teal-600 rounded mt-2 mb-5"></div>
+          <div class="lg:w-1/2 lg:pr-10 lg:py-6">
+            <h4 class="lg:text-2xl text-3xl mt-8 text-indigo-700 dark:text-teal-600">Profissionais</h4>
+            <div class="h-1 w-20 bg-teal-400 rounded mt-2 mb-5 dark:bg-indigo-700"></div>
             <Step v-for="(experiencia, index) in experienciasProfissionais" :key="experiencia.id" :isLast="index === experienciasProfissionais.length - 1" :data="experiencia"></Step>
           </div>
-          <div class="lg:w-3/6 md:w-1/2 md:pr-10 md:py-6">
-            <h4 class="sm:text-2xl text-3xl mt-8">Acadêmicas</h4>
-            <div class="h-1 w-20 bg-teal-600 rounded mt-2 mb-5"></div>
+          <div class="lg:w-1/2 lg:pr-10 lg:py-6">
+            <h4 class="lg:text-2xl text-3xl mt-8 text-indigo-700 dark:text-teal-600">Acadêmicas</h4>
+            <div class="h-1 w-20 bg-teal-400 rounded mt-2 mb-5 dark:bg-indigo-700"></div>
             <Step v-for="(experiencia, index) in experienciasAcademicas" :key="experiencia.id" :isLast="index === experienciasAcademicas.length - 1" :data="experiencia"></Step>
           </div>
         </div>
