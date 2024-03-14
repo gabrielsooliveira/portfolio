@@ -10,6 +10,7 @@
             <div class="w-full lg:p-4 px-4 mb-6 text-zinc-100">
               <h1 class="title-font font-medium text-xl mb-2">Eu sou Gabriel Souza Oliveira, um desenvolvedor fullstack</h1>
               <div class="leading-relaxed">Atuando na área há quase 7 anos, comecei a programar desde 2017. Desenvolvi vários projetos para empresas em que estive presente. Hoje estou terminando minha formação em ciências da computação e trabalhando como desenvolvedor fullstack com stacks principais sendo  Vue.js e PHP/Laravel.</div>
+              <a :href="pdfUrl" download="Curriculo.pdf" class="mt-4 inline-flex text-white bg-teal-700 border-0 py-1 px-4 focus:outline-none hover:bg-teal-800 rounded dark:bg-indigo-700 dark:hover:bg-indigo-800">Download CV</a>
             </div>
             <div class="p-4 w-1/3 text-center">
               <h2 class="title-font font-medium text-3xl text-teal-500 dark:text-indigo-500">+3</h2>
@@ -60,7 +61,8 @@ export default {
   data() {
     return {
       experienciasProfissionais: [],
-      experienciasAcademicas: []
+      experienciasAcademicas: [],
+      pdfUrl: process.env.BASE_URL + 'docs/Curriculo.pdf'
     }
   },
   created() {
