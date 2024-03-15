@@ -1,7 +1,7 @@
 <template>
-  <Menu></Menu>
-  <router-view/>
-  <Footer></Footer>
+    <Menu></Menu>
+    <router-view/>
+    <Footer></Footer>
 </template>
 
 <script setup>
@@ -11,11 +11,26 @@ import Footer from "@/components/Footer.vue"
 
 <style>
 *{
-  transition: 0.45s;
+  transition: 0.2s;
 }
 
 ::-webkit-scrollbar {
-  width: 0px;
-  height: 0px;
+  width: 9px;
+  height: 9px;
+}
+
+::-webkit-scrollbar-track {
+  background: #115e59;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #3730a3;
+  -webkit-transition: all 0.8s;
+  transition: all 0.8s;
+
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #312e81;
 }
 </style>

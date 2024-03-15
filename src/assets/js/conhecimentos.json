@@ -1,0 +1,216 @@
+[
+    {
+        "nome": "amazon web services",
+        "imagem": "devicon-amazonwebservices-plain-wordmark",
+        "descricao": "Amazon Web Services, também conhecido como AWS, é uma plataforma de serviços de computação em nuvem, que formam uma plataforma de computação na nuvem oferecida pela Amazon."
+    },
+    {
+        "nome": "angular",
+        "imagem": "devicon-angular-plain",
+        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+    },{
+        "nome": "apache",
+        "imagem": "devicon-apache-plain",
+        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+    },{
+        "nome": "bitbucket",
+        "imagem": "devicon-bitbucket-original",
+        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+    },{
+        "nome": "bootstrap",
+        "imagem": "devicon-bootstrap-plain",
+        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+    },{
+        "nome": "c",
+        "imagem": "devicon-c-plain",
+        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+    },{
+        "nome": "canva",
+        "imagem": "devicon-canva-original",
+        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+    },{
+        "nome": "composer",
+        "imagem": "devicon-composer-line",
+        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+    },{
+        "nome": "css",
+        "imagem": "devicon-css3-plain",
+        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+    },{
+        "nome": "electron",
+        "imagem": "devicon-electron-original",
+        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+    },{
+        "nome": "figma",
+        "imagem": "devicon-figma-plain",
+        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+    },{
+        "nome": "filezilla",
+        "imagem": "devicon-filezilla-plain",
+        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+    },{
+        "nome": "git",
+        "imagem": "devicon-git-plain",
+        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+    },{
+        "nome": "github",
+        "imagem": "devicon-github-original",
+        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+    },{
+        "nome": "gitlab",
+        "imagem": "devicon-gitlab-plain",
+        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+    },{
+        "nome": "html",
+        "imagem": "devicon-html5-plain",
+        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+    },{
+        "nome": "illustrator",
+        "imagem": "devicon-illustrator-plain",
+        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+    },{
+        "nome": "insomnia",
+        "imagem": "devicon-insomnia-plain",
+        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+    },{
+        "nome": "intellij",
+        "imagem": "devicon-intellij-plain",
+        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+    },{
+        "nome": "java",
+        "imagem": "devicon-java-plain",
+        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+    },{
+        "nome": "java script",
+        "imagem": "devicon-javascript-plain",
+        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+    },{
+        "nome": "jira",
+        "imagem": "devicon-jira-plain",
+        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+    },{
+        "nome": "jquery",
+        "imagem": "devicon-jquery-plain",
+        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+    },{
+        "nome": "json",
+        "imagem": "devicon-json-plain",
+        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+    },{
+        "nome": "junit",
+        "imagem": "devicon-junit-plain",
+        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+    },{
+        "nome": "kotlin",
+        "imagem": "devicon-kotlin-plain",
+        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+    },{
+        "nome": "laravel",
+        "imagem": "devicon-laravel-original",
+        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+    },{
+        "nome": "less",
+        "imagem": "devicon-less-plain-wordmark",
+        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+    },{
+        "nome": "livewire",
+        "imagem": "devicon-livewire-plain",
+        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+    },{
+        "nome": "maven",
+        "imagem": "devicon-maven-plain",
+        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+    },{
+        "nome": "mysql",
+        "imagem": "devicon-mysql-original",
+        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+    },{
+        "nome": "nodejs",
+        "imagem": "devicon-nodejs-plain",
+        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+    },{
+        "nome": "notion",
+        "imagem": "devicon-notion-plain",
+        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+    },{
+        "nome": "npm",
+        "imagem": "devicon-npm-original-wordmark",
+        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+    },{
+        "nome": "oauth",
+        "imagem": "devicon-oauth-plain",
+        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+    },{
+        "nome": "photoshop",
+        "imagem": "devicon-photoshop-plain",
+        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+    },{
+        "nome": "php",
+        "imagem": "devicon-php-plain",
+        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+    },{
+        "nome": "postgresql",
+        "imagem": "devicon-postgresql-plain",
+        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+    },{
+        "nome": "postman",
+        "imagem": "devicon-postman-plain",
+        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+    },{
+        "nome": "premierepro",
+        "imagem": "devicon-premierepro-plain",
+        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+    },{
+        "nome": "python",
+        "imagem": "devicon-python-plain",
+        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+    },{
+        "nome": "quasar",
+        "imagem": "devicon-quasar-plain",
+        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+    },{
+        "nome": "react",
+        "imagem": "devicon-react-original",
+        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+    },{
+        "nome": "sass",
+        "imagem": "devicon-sass-original",
+        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+    },{
+        "nome": "slack",
+        "imagem": "devicon-slack-plain",
+        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+    },{
+        "nome": "spring",
+        "imagem": "devicon-spring-original",
+        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+    },{
+        "nome": "symfony",
+        "imagem": "devicon-symfony-original",
+        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+    },{
+        "nome": "tailwindcss",
+        "imagem": "devicon-tailwindcss-original",
+        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+    },{
+        "nome": "trello",
+        "imagem": "devicon-trello-plain",
+        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+    },{
+        "nome": "vitejs",
+        "imagem": "devicon-vitejs-plain",
+        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+    },{
+        "nome": "vuejs",
+        "imagem": "devicon-vuejs-plain",
+        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+    },{
+        "nome": "webpack",
+        "imagem": "devicon-webpack-plain",
+        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+    },{
+        "nome": "xd",
+        "imagem": "devicon-xd-plain",
+        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+    }
+]
