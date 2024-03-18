@@ -10,7 +10,7 @@
             <div class="w-full lg:p-4 px-4 mb-6 text-zinc-100">
               <h1 class="title-font font-medium text-xl mb-2">Eu sou Gabriel Souza Oliveira, desenvolvedor fullstack</h1>
               <div class="leading-relaxed">Atuando na área há quase 7 anos, comecei a programar desde 2017. Desenvolvi vários projetos para empresas em que estive presente. Hoje estou terminando minha formação em ciências da computação e trabalhando como desenvolvedor fullstack com stacks principais sendo  Vue.js e PHP/Laravel.</div>
-              <a :href="pdfUrl" download="Curriculo.pdf" class="mt-4 inline-flex text-white bg-teal-700 border-0 py-1 px-4 focus:outline-none hover:bg-teal-800 rounded dark:bg-indigo-700 dark:hover:bg-indigo-800">Download CV</a>
+              <a :href="pdfUrl" download="Curriculo.pdf" target="_blank" class="mt-4 inline-flex text-white bg-teal-700 border-0 py-1 px-4 focus:outline-none hover:bg-teal-800 rounded dark:bg-indigo-700 dark:hover:bg-indigo-800">Download CV</a>
             </div>
             <div class="w-1/3 text-center">
               <h2 class="title-font font-medium text-3xl text-teal-500 dark:text-indigo-500">+3</h2>
@@ -56,14 +56,14 @@
         <h3 class="lg:text-5xl text-4xl font-bold text-indigo-800 dark:text-teal-600 mb-7">Conhecimentos <span class="text-teal-400 font-bold dark:text-indigo-600">.</span></h3>
         <div class="flex flex-wrap w-full">
           <div class="flex flex-wrap lg:w-1/3 lg:pr-10 lg:py-6 gap-y-4">
-            <div v-for="conhecimento in conhecimentos" :key="conhecimento.id" :data="conhecimento" class="w-1/6 text-indigo-800 hover:text-teal-600 dark:text-teal-600 dark:hover:text-indigo-500">
+            <div v-for="conhecimento in conhecimentos" :key="conhecimento.id" :data="conhecimento" class="w-1/6 text-indigo-800 hover:text-teal-600 dark:text-teal-600 dark:hover:text-indigo-500" @mouseover="showDetails(conhecimento)">
               <i :class="[conhecimento.imagem]" class="text-4xl"></i> 
             </div>
           </div>
-          <div class="lg:w-2/3 lg:pr-10 lg:py-6">
-            <h1 class="text-3xl font-bold text-teal-600">PHP</h1>
-            <h4 class="mb-12 text-indigo-600 font-semibold">Linguagem de programação</h4>
-            <p>O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano de 1500, quando uma misturou os caracteres de um texto para criar um espécime de livro. Este texto não só sobreviveu 5 séculos, mas também o salto para a tipografia electrónica, mantendo-se essencialmente inalterada.</p>
+          <div class="lg:w-2/3 lg:pr-10 lg:py-6 mt-12 lg:mt-0">
+            <h1 class="text-3xl font-bold text-teal-600 uppercase">{{ detalhes.nome }}</h1>
+            <h4 class="mb-12 text-indigo-600 font-semibold capitalize">{{ detalhes.titulo }}</h4>
+            <p class="text-indigo-950 dark:text-zinc-50 font-semibold">{{ detalhes.descricao }}</p>
           </div>
         </div>
       </div>
@@ -86,13 +86,25 @@ export default {
       experienciasProfissionais: [],
       experienciasAcademicas: [],
       conhecimentos: [],
-      pdfUrl: process.env.BASE_URL + 'docs/Curriculo.pdf'
+      pdfUrl: process.env.BASE_URL + 'docs/Curriculo.pdf',
+      detalhes: {
+        nome: '',
+        titulo: '',
+        descricao: ''
+      }
     }
   },
   created() {
     this.experienciasProfissionais = Experiencias.experiencias_profissionais;
     this.experienciasAcademicas = Experiencias.experiencias_academicas;
     this.conhecimentos = Conhecimentos;
+  },
+  methods: {
+    showDetails(conhecimento) {
+      this.detalhes.nome = conhecimento.nome;
+      this.detalhes.titulo = conhecimento.titulo;
+      this.detalhes.descricao = conhecimento.descricao;
+    }
   }
 };
 </script>

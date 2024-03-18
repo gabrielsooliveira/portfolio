@@ -1,215 +1,272 @@
 [
     {
         "nome": "amazon web services",
+        "titulo" : "serviços de computação em nuvem",
         "imagem": "devicon-amazonwebservices-plain-wordmark",
         "descricao": "Amazon Web Services, também conhecido como AWS, é uma plataforma de serviços de computação em nuvem, que formam uma plataforma de computação na nuvem oferecida pela Amazon."
-    },
-    {
+    },{
         "nome": "angular",
+        "titulo" : "linguagem de programação",
         "imagem": "devicon-angular-plain",
-        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+        "descricao": "Angular é uma plataforma de aplicações web de código-fonte aberto e front-end baseado em TypeScript liderado pela Equipe Angular do Google e por uma comunidade de indivíduos e corporações. Angular é uma reescrita completa do AngularJS, feito pela mesma equipe que o construiu."
     },{
         "nome": "apache",
+        "titulo" : "servidor",
         "imagem": "devicon-apache-plain",
-        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+        "descricao": "O Servidor HTTP Apache é um servidor do tipo HTTPD (do inglês: HTTPd stands for Hypertext Transfer Protocol daemon), compatível com o protocolo HTTP. Suas funcionalidades são mantidas através de uma estrutura de módulos, permitindo inclusive que o usuário escreva seus próprios módulos utilizando a API do software."
     },{
         "nome": "bitbucket",
+        "titulo" : "gerenciador de repositório",
         "imagem": "devicon-bitbucket-original",
-        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+        "descricao": "O Bitbucket Cloud é uma ferramenta de hospedagem de código e colaboração baseada em Git, criada para equipes. As melhores integrações da categoria do Jira e do Trello da Bitbucket são projetadas para reunir toda a equipe de software para executar um projeto."
     },{
         "nome": "bootstrap",
+        "titulo" : "framework",
         "imagem": "devicon-bootstrap-plain",
-        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+        "descricao": "Bootstrap é um framework web com código-fonte aberto para desenvolvimento de componentes de interface e front-end para sites e aplicações web, usando HTML, CSS e JavaScript, baseado em modelos de design para a tipografia, melhorando a experiência do usuário em um site amigável e responsivo."
     },{
         "nome": "c",
+        "titulo" : "linguagem de programação",
         "imagem": "devicon-c-plain",
-        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+        "descricao": "C é uma linguagem de programação compilada de propósito geral, estruturada, imperativa, procedural, padronizada pela Organização Internacional para Padronização, criada em 1972 por Dennis Ritchie na empresa AT&T Bell Labs para desenvolvimento do sistema operacional Unix."
     },{
         "nome": "canva",
+        "titulo" : "ferramenta de design",
         "imagem": "devicon-canva-original",
-        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+        "descricao": "Canva é uma plataforma de design gráfico que permite aos usuários criar gráficos de mídia social, apresentações, infográficos, pôsteres e outros conteúdos visuais."
     },{
         "nome": "composer",
+        "titulo" : "gerenciador de dependências",
         "imagem": "devicon-composer-line",
-        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+        "descricao": "O Composer é um gerenciador de dependências em nível de aplicativo para a linguagem de programação PHP que fornece um formato padrão para gerenciar dependências de software PHP e bibliotecas necessárias."
     },{
         "nome": "css",
+        "titulo" : "linguagem de estilo",
         "imagem": "devicon-css3-plain",
-        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+        "descricao": "Cascading Style Sheets é um mecanismo para adicionar estilos a uma página web, aplicado diretamente nas tags HTML ou ficar contido dentro das tags <style>. Também é possível, adicionar estilos adicionando um link para um arquivo CSS que contém os estilos."
+    },{
+        "nome": "docker",
+        "titulo" : "software de containers",
+        "imagem": "devicon-docker-plain-wordmark",
+        "descricao": "Docker é um conjunto de produtos de plataforma como serviço que usam virtualização de nível de sistema operacional para entregar software em pacotes chamados contêineres. Os contêineres são isolados uns dos outros e agrupam seus próprios softwares, bibliotecas e arquivos de configuração."
     },{
         "nome": "electron",
+        "titulo" : "framework",
         "imagem": "devicon-electron-original",
-        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+        "descricao": "Electron é um framework de código aberto criado por Cheng Zhao, e agora desenvolvido pelo GitHub. Ele permite desenvolver aplicações para desktop GUI usando componentes front end e back end originalmente criados para aplicações web: Node.js para o back end e Chromium para o front end."
     },{
         "nome": "figma",
+        "titulo" : "ferramenta de design",
         "imagem": "devicon-figma-plain",
-        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+        "descricao": "Figma é um editor gráfico de vetor e prototipagem de projetos de design baseado principalmente no navegador web, com ferramentas offline adicionais para aplicações desktop para GNU/Linux, macOS e Windows."
     },{
         "nome": "filezilla",
+        "titulo" : "cliente FTP, SFTP e FTPS",
         "imagem": "devicon-filezilla-plain",
-        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+        "descricao": "FileZilla é um cliente FTP, SFTP e FTPS de código livre para Microsoft Windows e GNU/Linux. É distribuído em licença GNU General Public License. Desde 1 de março de 2007 ocupa a 9ª posição na lista dos mais baixados do SourceForge, desbancando nomes como phpBB, Pidgin e MinGW."
     },{
         "nome": "git",
+        "titulo" : "sistema de controle de versões",
         "imagem": "devicon-git-plain",
-        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+        "descricao": "Git é um sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software, mas pode ser usado para registrar o histórico de edições de qualquer tipo de arquivo."
     },{
         "nome": "github",
+        "titulo" : "gerenciador de repositório",
         "imagem": "devicon-github-original",
-        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+        "descricao": "GitHub é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git. Ele permite que programadores, utilitários ou qualquer usuário cadastrado na plataforma contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo."
     },{
         "nome": "gitlab",
+        "titulo" : "gerenciador de repositório",
         "imagem": "devicon-gitlab-plain",
-        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+        "descricao": "O GitLab é um gerenciador de repositório de software baseado em git, com suporte a Wiki, gerenciamento de tarefas e CI/CD. GitLab é similar ao GitHub, mas o GitLab permite que os desenvolvedores armazenem o código em seus próprios servidores, ao invés de servidores de terceiros."
     },{
         "nome": "html",
+        "titulo" : "linguagem de marcação",
         "imagem": "devicon-html5-plain",
-        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+        "descricao": "HTML é uma linguagem de marcação utilizada na construção de páginas na Web. Documentos HTML podem ser interpretados por navegadores. A tecnologia é fruto da junção entre os padrões HyTime e SGML. HyTime é um padrão para a representação estruturada de hipermídia e conteúdo baseado em tempo."
     },{
         "nome": "illustrator",
+        "titulo" : "ferramenta de design",
         "imagem": "devicon-illustrator-plain",
-        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+        "descricao": "Adobe Illustrator é um editor de imagens vetoriais desenvolvido e comercializado pela Adobe Systems. Foi criado inicialmente para o Apple Macintosh em 1985, e, foi comercializado para todo o público em 1995 como complemento comercial de software de fontes da Adobe e da tecnologia PostScript desenvolvida pela empresa."
     },{
         "nome": "insomnia",
+        "titulo" : "linguagem de programação",
         "imagem": "devicon-insomnia-plain",
         "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
     },{
         "nome": "intellij",
+        "titulo" : "linguagem de programação",
         "imagem": "devicon-intellij-plain",
         "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
     },{
         "nome": "java",
+        "titulo" : "linguagem de programação",
         "imagem": "devicon-java-plain",
         "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
     },{
         "nome": "java script",
+        "titulo" : "linguagem de programação",
         "imagem": "devicon-javascript-plain",
         "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
     },{
         "nome": "jira",
+        "titulo" : "linguagem de programação",
         "imagem": "devicon-jira-plain",
         "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
     },{
         "nome": "jquery",
+        "titulo" : "linguagem de programação",
         "imagem": "devicon-jquery-plain",
         "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
     },{
         "nome": "json",
+        "titulo" : "linguagem de programação",
         "imagem": "devicon-json-plain",
         "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
     },{
         "nome": "junit",
-        "imagem": "devicon-junit-plain",
+        "titulo" : "linguagem de programação",
+        "imagem": "devicon-junit-plain-wordmark",
         "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
     },{
         "nome": "kotlin",
+        "titulo" : "linguagem de programação",
         "imagem": "devicon-kotlin-plain",
         "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
     },{
         "nome": "laravel",
+        "titulo" : "linguagem de programação",
         "imagem": "devicon-laravel-original",
         "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
     },{
         "nome": "less",
+        "titulo" : "linguagem de programação",
         "imagem": "devicon-less-plain-wordmark",
         "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
     },{
         "nome": "livewire",
+        "titulo" : "linguagem de programação",
         "imagem": "devicon-livewire-plain",
         "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
     },{
         "nome": "maven",
+        "titulo" : "linguagem de programação",
         "imagem": "devicon-maven-plain",
         "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
     },{
         "nome": "mysql",
+        "titulo" : "linguagem de programação",
         "imagem": "devicon-mysql-original",
         "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
     },{
         "nome": "nodejs",
+        "titulo" : "linguagem de programação",
         "imagem": "devicon-nodejs-plain",
         "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
     },{
         "nome": "notion",
+        "titulo" : "linguagem de programação",
         "imagem": "devicon-notion-plain",
         "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
     },{
         "nome": "npm",
+        "titulo" : "linguagem de programação",
         "imagem": "devicon-npm-original-wordmark",
         "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
     },{
         "nome": "oauth",
+        "titulo" : "linguagem de programação",
         "imagem": "devicon-oauth-plain",
         "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
     },{
         "nome": "photoshop",
+        "titulo" : "linguagem de programação",
         "imagem": "devicon-photoshop-plain",
         "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
     },{
         "nome": "php",
+        "titulo" : "linguagem de programação",
         "imagem": "devicon-php-plain",
         "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
     },{
         "nome": "postgresql",
+        "titulo" : "linguagem de programação",
         "imagem": "devicon-postgresql-plain",
         "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
     },{
         "nome": "postman",
+        "titulo" : "linguagem de programação",
         "imagem": "devicon-postman-plain",
         "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
     },{
         "nome": "premierepro",
+        "titulo" : "linguagem de programação",
         "imagem": "devicon-premierepro-plain",
         "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
     },{
         "nome": "python",
+        "titulo" : "linguagem de programação",
         "imagem": "devicon-python-plain",
         "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
     },{
         "nome": "quasar",
+        "titulo" : "linguagem de programação",
         "imagem": "devicon-quasar-plain",
         "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
     },{
         "nome": "react",
+        "titulo" : "linguagem de programação",
         "imagem": "devicon-react-original",
         "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
     },{
         "nome": "sass",
+        "titulo" : "linguagem de programação",
         "imagem": "devicon-sass-original",
         "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
     },{
         "nome": "slack",
+        "titulo" : "linguagem de programação",
         "imagem": "devicon-slack-plain",
         "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
     },{
         "nome": "spring",
+        "titulo" : "linguagem de programação",
         "imagem": "devicon-spring-original",
         "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
     },{
         "nome": "symfony",
+        "titulo" : "linguagem de programação",
         "imagem": "devicon-symfony-original",
         "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
     },{
         "nome": "tailwindcss",
+        "titulo" : "linguagem de programação",
         "imagem": "devicon-tailwindcss-original",
         "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
     },{
         "nome": "trello",
+        "titulo" : "linguagem de programação",
         "imagem": "devicon-trello-plain",
         "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
     },{
         "nome": "vitejs",
+        "titulo" : "linguagem de programação",
         "imagem": "devicon-vitejs-plain",
         "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
     },{
         "nome": "vuejs",
+        "titulo" : "linguagem de programação",
         "imagem": "devicon-vuejs-plain",
         "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
     },{
         "nome": "webpack",
+        "titulo" : "linguagem de programação",
         "imagem": "devicon-webpack-plain",
         "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
     },{
         "nome": "xd",
+        "titulo" : "linguagem de programação",
         "imagem": "devicon-xd-plain",
         "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
     }
