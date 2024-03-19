@@ -55,12 +55,12 @@
       <div class="container px-5 py-12 mx-auto flex flex-wrap">
         <h3 class="lg:text-5xl text-4xl font-bold text-indigo-800 dark:text-teal-600 mb-7">Conhecimentos <span class="text-teal-400 font-bold dark:text-indigo-600">.</span></h3>
         <div class="flex flex-wrap w-full">
-          <div class="flex flex-wrap lg:w-1/3 lg:pr-10 lg:py-6 gap-y-4">
+          <div class="flex flex-wrap lg:w-4/6 lg:pr-10 lg:py-6 gap-y-4">
             <div v-for="conhecimento in conhecimentos" :key="conhecimento.id" :data="conhecimento" class="w-1/6 text-indigo-800 hover:text-teal-600 dark:text-teal-600 dark:hover:text-indigo-500" @mouseover="showDetails(conhecimento)">
               <i :class="[conhecimento.imagem]" class="text-4xl"></i> 
             </div>
           </div>
-          <div class="lg:w-2/3 lg:pr-10 lg:py-6 mt-12 lg:mt-0">
+          <div class="lg:w-2/6 lg:pr-10 lg:py-6 mt-12 lg:mt-0">
             <h1 class="text-3xl font-bold text-teal-600 uppercase">{{ detalhes.nome }}</h1>
             <h4 class="mb-12 text-indigo-600 font-semibold capitalize">{{ detalhes.titulo }}</h4>
             <p class="text-indigo-950 dark:text-zinc-50 font-semibold">{{ detalhes.descricao }}</p>

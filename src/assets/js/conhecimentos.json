@@ -31,7 +31,7 @@
         "descricao": "C é uma linguagem de programação compilada de propósito geral, estruturada, imperativa, procedural, padronizada pela Organização Internacional para Padronização, criada em 1972 por Dennis Ritchie na empresa AT&T Bell Labs para desenvolvimento do sistema operacional Unix."
     },{
         "nome": "canva",
-        "titulo" : "ferramenta de design",
+        "titulo" : "software",
         "imagem": "devicon-canva-original",
         "descricao": "Canva é uma plataforma de design gráfico que permite aos usuários criar gráficos de mídia social, apresentações, infográficos, pôsteres e outros conteúdos visuais."
     },{
@@ -46,7 +46,7 @@
         "descricao": "Cascading Style Sheets é um mecanismo para adicionar estilos a uma página web, aplicado diretamente nas tags HTML ou ficar contido dentro das tags <style>. Também é possível, adicionar estilos adicionando um link para um arquivo CSS que contém os estilos."
     },{
         "nome": "docker",
-        "titulo" : "software de containers",
+        "titulo" : "software",
         "imagem": "devicon-docker-plain-wordmark",
         "descricao": "Docker é um conjunto de produtos de plataforma como serviço que usam virtualização de nível de sistema operacional para entregar software em pacotes chamados contêineres. Os contêineres são isolados uns dos outros e agrupam seus próprios softwares, bibliotecas e arquivos de configuração."
     },{
@@ -56,7 +56,7 @@
         "descricao": "Electron é um framework de código aberto criado por Cheng Zhao, e agora desenvolvido pelo GitHub. Ele permite desenvolver aplicações para desktop GUI usando componentes front end e back end originalmente criados para aplicações web: Node.js para o back end e Chromium para o front end."
     },{
         "nome": "figma",
-        "titulo" : "ferramenta de design",
+        "titulo" : "software",
         "imagem": "devicon-figma-plain",
         "descricao": "Figma é um editor gráfico de vetor e prototipagem de projetos de design baseado principalmente no navegador web, com ferramentas offline adicionais para aplicações desktop para GNU/Linux, macOS e Windows."
     },{
@@ -86,188 +86,188 @@
         "descricao": "HTML é uma linguagem de marcação utilizada na construção de páginas na Web. Documentos HTML podem ser interpretados por navegadores. A tecnologia é fruto da junção entre os padrões HyTime e SGML. HyTime é um padrão para a representação estruturada de hipermídia e conteúdo baseado em tempo."
     },{
         "nome": "illustrator",
-        "titulo" : "ferramenta de design",
+        "titulo" : "software",
         "imagem": "devicon-illustrator-plain",
         "descricao": "Adobe Illustrator é um editor de imagens vetoriais desenvolvido e comercializado pela Adobe Systems. Foi criado inicialmente para o Apple Macintosh em 1985, e, foi comercializado para todo o público em 1995 como complemento comercial de software de fontes da Adobe e da tecnologia PostScript desenvolvida pela empresa."
     },{
         "nome": "insomnia",
-        "titulo" : "linguagem de programação",
+        "titulo" : "plataforma api",
         "imagem": "devicon-insomnia-plain",
-        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+        "descricao": "Insomnia é uma aplicação Open Source para desenvolvimento/teste de API Clients. Ele pode ser usado para envio de requisições REST, SOAP, GraphQ e GRPC. Com esta ferramenta torna-se possível realizar a documentação, automação e com a sua versão CLI tools é possível implementar testes em pipeline."
     },{
         "nome": "intellij",
-        "titulo" : "linguagem de programação",
+        "titulo" : "ambiente de desenvolvimento",
         "imagem": "devicon-intellij-plain",
-        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+        "descricao": "IntelliJ IDEA é um ambiente de desenvolvimento integrado escrito em Java para o desenvolvimento de software de computador escrito em Java, Kotlin, Groovy e outras linguagens baseadas em JVM."
     },{
         "nome": "java",
         "titulo" : "linguagem de programação",
         "imagem": "devicon-java-plain",
-        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+        "descricao": "Java é uma linguagem de programação orientada a objetos desenvolvida na década de 90 por uma equipe de programadores chefiada por James Gosling, na empresa Sun Microsystems, que em 2008 foi adquirido pela empresa Oracle Corporation."
     },{
-        "nome": "java script",
+        "nome": "javascript",
         "titulo" : "linguagem de programação",
         "imagem": "devicon-javascript-plain",
-        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+        "descricao": "JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma. Juntamente com HTML e CSS, o JavaScript é uma das três principais tecnologias da World Wide Web."
     },{
         "nome": "jira",
-        "titulo" : "linguagem de programação",
+        "titulo" : "software",
         "imagem": "devicon-jira-plain",
-        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+        "descricao": "Jira é um software comercial desenvolvido pela empresa Australiana Atlassian. É uma ferramenta que permite o monitoramento de tarefas e acompanhamento de projetos garantindo o gerenciamento de todas as suas atividades em único lugar."
     },{
         "nome": "jquery",
-        "titulo" : "linguagem de programação",
+        "titulo" : "biblioteca",
         "imagem": "devicon-jquery-plain",
-        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+        "descricao": "jQuery é uma biblioteca livre que contém funções da linguagem de programação JavaScript que interage com páginas em HTML, desenvolvida para simplificar os scripts executados/interpretados no navegador de internet do usuário."
     },{
         "nome": "json",
-        "titulo" : "linguagem de programação",
+        "titulo" : "formato de arquivo",
         "imagem": "devicon-json-plain",
-        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+        "descricao": "Em computação, JSON, um acrônimo de JavaScript Object Notation, é um formato compacto, de padrão aberto independente, de troca de dados simples e rápida entre sistemas, especificado por Douglas Crockford em 2000, que utiliza texto legível a humanos, no formato atributo-valor."
     },{
         "nome": "junit",
-        "titulo" : "linguagem de programação",
+        "titulo" : "framework",
         "imagem": "devicon-junit-plain-wordmark",
-        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+        "descricao": "O JUnit é um framework open-source, que se assemelha ao raio de testes software java, criado por Erich Gamma e Kent Beck, com suporte à criação de testes automatizados na linguagem de programação Java. Esse framework facilita a criação e manutenção do código para a automação de testes com apresentação dos resultados."
     },{
         "nome": "kotlin",
         "titulo" : "linguagem de programação",
         "imagem": "devicon-kotlin-plain",
-        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+        "descricao": "Kotlin é uma linguagem de programação multiplataforma, orientada a objetos e funcional, concisa e estaticamente tipada, desenvolvida pela JetBrains em 2011, que compila para a Máquina virtual Java e que também pode ser traduzida para a linguagem JavaScript e compilada para código nativo."
     },{
         "nome": "laravel",
-        "titulo" : "linguagem de programação",
+        "titulo" : "framework",
         "imagem": "devicon-laravel-original",
-        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+        "descricao": "Laravel é um framework PHP livre e open-source criado por Taylor B. Otwell para o desenvolvimento de sistemas web que utilizam o padrão MVC."
     },{
         "nome": "less",
-        "titulo" : "linguagem de programação",
+        "titulo" : "linguagem de estilo",
         "imagem": "devicon-less-plain-wordmark",
-        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+        "descricao": "Less é uma linguagem de folha de estilos dinâmica desenhada por Alexis Sellier. Ela foi influenciada por Sass e influenciou a nova sintaxe 'SCSS' do Sass, que adaptou sua sintaxe de formação de blocos do tipo CSS. LESS é de código aberto."
     },{
         "nome": "livewire",
-        "titulo" : "linguagem de programação",
+        "titulo" : "biblioteca",
         "imagem": "devicon-livewire-plain",
-        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+        "descricao": "Livewire é uma biblioteca PHP que permite criar aplicativos da web interativos e ricos em recursos sem a necessidade de escrever código JavaScript complexo."
     },{
         "nome": "maven",
-        "titulo" : "linguagem de programação",
+        "titulo" : "software",
         "imagem": "devicon-maven-plain",
-        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+        "descricao": "Apache Maven, ou Maven, é uma ferramenta de automação de compilação utilizada primariamente em projetos Java. Ela é similar à ferramenta Ant, mas é baseada em conceitos e trabalhos diferentes em um modo diferente. Também é utilizada para construir e gerenciar projetos escritos em C#, Ruby, Scala e outras linguagens."
     },{
         "nome": "mysql",
-        "titulo" : "linguagem de programação",
+        "titulo" : "banco de dados",
         "imagem": "devicon-mysql-original",
-        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+        "descricao": "O MySQL é um sistema de gerenciamento de banco de dados, que utiliza a linguagem SQL como interface. É atualmente um dos sistemas de gerenciamento de bancos de dados mais populares da Oracle Corporation, com mais de 10 milhões de instalações pelo mundo."
     },{
         "nome": "nodejs",
         "titulo" : "linguagem de programação",
         "imagem": "devicon-nodejs-plain",
-        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+        "descricao": "Node.js é um software de código aberto, multiplataforma, baseado no interpretador V8 do Google e que permite a execução de códigos JavaScript fora de um navegador web. A principal característica do Node.js é sua arquitetura assíncrona e orientada por eventos."
     },{
         "nome": "notion",
-        "titulo" : "linguagem de programação",
+        "titulo" : "software",
         "imagem": "devicon-notion-plain",
-        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+        "descricao": "Notion é um aplicativo da web freemium para produtividade e anotações desenvolvido pela Notion Labs Inc. Ele oferece ferramentas organizacionais, incluindo gerenciamento de tarefas, rastreamento de projetos, listas de tarefas e marcadores."
     },{
         "nome": "npm",
-        "titulo" : "linguagem de programação",
+        "titulo" : "gerenciador de pacotes",
         "imagem": "devicon-npm-original-wordmark",
-        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+        "descricao": "Npm é um gerenciador de pacotes para o Node.JS npm, Inc. é uma subsidiária do GitHub, que fornece hospedagem para desenvolvimento de software e controle de versão com o uso do Git. npm é o gerenciador de pacotes padrão para o ambiente de tempo de execução JavaScript Node.js."
     },{
         "nome": "oauth",
-        "titulo" : "linguagem de programação",
+        "titulo" : "protocolo de internet",
         "imagem": "devicon-oauth-plain",
-        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+        "descricao": "OAuth é um padrão aberto de delegação de autorização, comumente utilizado para permitir que os usuários da Internet possam fazer logon em sites de terceiros usando contas de um provedor de identidade, como Google, Facebook, Microsoft, Twitter, etc.—mas, sem expor credenciais de autenticação, como senhas."
     },{
         "nome": "photoshop",
-        "titulo" : "linguagem de programação",
+        "titulo" : "software",
         "imagem": "devicon-photoshop-plain",
-        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+        "descricao": "Adobe Photoshop é um software caracterizado como editor de imagens bidimensionais do tipo raster desenvolvido pela Adobe Systems. É considerado o líder no mercado dos editores de imagem profissionais, assim como o programa de facto para edição profissional de imagens digitais e trabalhos de pré-impressão."
     },{
         "nome": "php",
         "titulo" : "linguagem de programação",
         "imagem": "devicon-php-plain",
-        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+        "descricao": "PHP é uma linguagem interpretada livre, usada originalmente apenas para o desenvolvimento de aplicações presentes e atuantes no lado do servidor, capazes de gerar conteúdo dinâmico na World Wide Web."
     },{
         "nome": "postgresql",
-        "titulo" : "linguagem de programação",
+        "titulo" : "banco de dados",
         "imagem": "devicon-postgresql-plain",
-        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+        "descricao": "PostgreSQL é um sistema gerenciador de banco de dados objeto relacional, desenvolvido como projeto de código aberto."
     },{
         "nome": "postman",
-        "titulo" : "linguagem de programação",
+        "titulo" : "plataforma api",
         "imagem": "devicon-postman-plain",
-        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+        "descricao": "Postman é uma aplicação que permite testar APIs web. O software foi criado em 2012 por Abhinav Asthana, Ankit Sobti e Abhijit Kane em Bangalore, Índia, para resolver o problema de compartilhamento de testes de API."
     },{
-        "nome": "premierepro",
+        "nome": "premiere pro",
         "titulo" : "linguagem de programação",
         "imagem": "devicon-premierepro-plain",
-        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+        "descricao": "Adobe Premiere Pro é um programa de computador, da empresa Adobe Systems, que é empregado para a edição de vídeos profissionais."
     },{
         "nome": "python",
         "titulo" : "linguagem de programação",
         "imagem": "devicon-python-plain",
-        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+        "descricao": "Python é uma linguagem de programação de alto nível, interpretada de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte. Foi lançada por Guido van Rossum em 1991."
     },{
         "nome": "quasar",
-        "titulo" : "linguagem de programação",
+        "titulo" : "framework",
         "imagem": "devicon-quasar-plain",
-        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+        "descricao": "Quasar Framework é uma estrutura de código aberto baseada em Vue.js para construir aplicativos com uma única base de código. Ele pode ser implantado na Web como SPA, PWA, SSR, em um aplicativo móvel, usando Cordova para iOS e Android, e em um aplicativo de desktop, usando Electron para Mac, Windows e Linux."
     },{
         "nome": "react",
-        "titulo" : "linguagem de programação",
+        "titulo" : "biblioteca",
         "imagem": "devicon-react-original",
-        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+        "descricao": "O React é uma biblioteca front-end JavaScript de código aberto com foco em criar interfaces de usuário em páginas web."
     },{
         "nome": "sass",
-        "titulo" : "linguagem de programação",
+        "titulo" : "linguagem de estilo",
         "imagem": "devicon-sass-original",
-        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+        "descricao": "Sass é uma linguagem de folhas de estilo concebida inicialmente por Hampton Catlin e desenvolvida por Natalie Weizenbaum. Depois de suas versões iniciais, Weizenbaum e Chris Eppstein continuaram a estender Sass com SassScript, uma simples linguagem de script usada em arquivos Sass."
     },{
         "nome": "slack",
-        "titulo" : "linguagem de programação",
+        "titulo" : "software",
         "imagem": "devicon-slack-plain",
-        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+        "descricao": "Slack é uma plataforma de comunicação de equipe baseada em nuvem desenvolvida pela Slack Technologies, que desde 2020 é propriedade da Salesforce."
     },{
         "nome": "spring",
         "titulo" : "linguagem de programação",
         "imagem": "devicon-spring-original",
-        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+        "descricao": "O Spring é um framework open source para a plataforma Java criado por Rod Johnson e descrito em seu livro 'Expert One-on-One: JEE Design e Development'. Trata-se de um framework não intrusivo, baseado nos padrões de projeto inversão de controle e injeção de dependência."
     },{
         "nome": "symfony",
-        "titulo" : "linguagem de programação",
+        "titulo" : "framework",
         "imagem": "devicon-symfony-original",
-        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+        "descricao": "Symfony é um framework livre do tipo fullstack para desenvolvimento de aplicações web, com a linguagem PHP e o paradigma MVC, disponível sob a Licença MIT. É uma ferramenta com o uso via uma interface gráfica acessada via navegador web."
     },{
         "nome": "tailwindcss",
-        "titulo" : "linguagem de programação",
+        "titulo" : "biblioteca",
         "imagem": "devicon-tailwindcss-original",
-        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+        "descricao": "Tailwind CSS é uma estrutura CSS de código aberto. A principal característica desta biblioteca é que, ao contrário de outros frameworks CSS como Bootstrap, ela não fornece uma série de classes predefinidas para elementos como botões ou tabelas."
     },{
         "nome": "trello",
-        "titulo" : "linguagem de programação",
+        "titulo" : "software",
         "imagem": "devicon-trello-plain",
-        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+        "descricao": "Trello é um aplicativo de gerenciamento de projeto baseado na web originalmente desenvolvido em 2011 pela então Fog Creek Software. Em 2017, foi adquirido pela empresa australiana Atlassian. Ele opera um modelo de negócio freemium."
     },{
         "nome": "vitejs",
-        "titulo" : "linguagem de programação",
+        "titulo" : "servidor de desenvolvimento",
         "imagem": "devicon-vitejs-plain",
-        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+        "descricao": "Vite é um servidor de desenvolvimento local escrito por Evan You, o criador do Vue.js, e usado por padrão pelo Vue e para modelos de projeto React. Possui suporte para TypeScript e JSX. Ele usa Rollup e esbuild internamente para empacotamento."
     },{
         "nome": "vuejs",
-        "titulo" : "linguagem de programação",
+        "titulo" : "framework",
         "imagem": "devicon-vuejs-plain",
-        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+        "descricao": "Vue.js é um framework JavaScript de código-aberto, focado no desenvolvimento de interfaces de usuário e aplicativos de página única."
     },{
         "nome": "webpack",
-        "titulo" : "linguagem de programação",
+        "titulo" : "empacotador de módulos",
         "imagem": "devicon-webpack-plain",
-        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+        "descricao": "O Webpack é um empacotador de módulos gratuito e de código aberto para JavaScript. Ele é feito principalmente para JavaScript, mas pode transformar ativos de front-end, como HTML, CSS e imagens, se os carregadores correspondentes forem incluídos."
     },{
         "nome": "xd",
-        "titulo" : "linguagem de programação",
+        "titulo" : "software",
         "imagem": "devicon-xd-plain",
-        "descricao": "O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano."
+        "descricao": "Adobe XD é uma ferramenta de design de experiência do usuário baseada em vetores para aplicativos da web e aplicativos móveis, desenvolvida e publicada pela Adobe Inc."
     }
 ]
