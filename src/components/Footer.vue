@@ -8,13 +8,13 @@
             <a href="https://twitter.com/alvinzin1_" target="_blank" class="text-xl mx-2 text-zinc-600 transition-colors duration-100 transform dark:text-zinc-300 hover:text-indigo-900 dark:hover:text-teal-500" aria-label="Twitter">
                 <i class="fa-brands fa-twitter"></i>
             </a>
-            <a href="https://www.instagram.com/alvinzin1_/" target="_blank" class="text-xl mx-2 text-zinc-600 transition-colors duration-100 transform dark:text-zinc-300 hover:text-indigo-900 dark:hover:text-teal-500" aria-label="Instagram">
+            <a href="https://www.instagram.com/alvinzin1/" target="_blank" class="text-xl mx-2 text-zinc-600 transition-colors duration-100 transform dark:text-zinc-300 hover:text-indigo-900 dark:hover:text-teal-500" aria-label="Instagram">
                 <i class="fa-brands fa-instagram"></i>
             </a>
             <a href="https://www.linkedin.com/in/gabrielsouza99/" target="_blank" class="text-xl mx-2 text-zinc-600 transition-colors duration-100 transform dark:text-zinc-300 hover:text-indigo-900 dark:hover:text-teal-500" aria-label="Linkedln">
                 <i class="fa-brands fa-linkedin"></i>
             </a>
-            <a href="https://github.com/alvinzin1" target="_blank" class="text-xl mx-2 text-zinc-600 transition-colors duration-100 transform dark:text-zinc-300 hover:text-indigo-900 dark:hover:text-teal-500" aria-label="Github">
+            <a href="https://github.com/Alvinzin1" target="_blank" class="text-xl mx-2 text-zinc-600 transition-colors duration-100 transform dark:text-zinc-300 hover:text-indigo-900 dark:hover:text-teal-500" aria-label="Github">
                 <i class="fa-brands fa-github"></i>
             </a>
             </span>

@@ -9,12 +9,12 @@
           <div class="flex flex-wrap -mx-4 mt-auto mb-auto lg:w-2/3 lg:pr-10">
             <div class="w-full lg:p-4 px-4 mb-6 text-zinc-100">
               <h1 class="title-font font-medium text-xl mb-2">Eu sou Gabriel Souza Oliveira, desenvolvedor fullstack</h1>
-              <div class="leading-relaxed">Atuando na área há quase 7 anos, comecei a programar desde 2017. Desenvolvi vários projetos para empresas em que estive presente. Hoje estou terminando minha formação em ciências da computação e trabalhando como desenvolvedor fullstack com stacks principais sendo  Vue.js e PHP/Laravel.</div>
+              <div class="leading-relaxed">Programando há mais de 7 anos, comecei a programar desde 2017. Desenvolvi projetos com foco em PHP/Laravel e Vue.js em sua maioria para as empresas em que estive presente. Hoje estou terminando minha formação em ciências da computação e trabalhando como desenvolvedor fullstack na controladoria geral do município.</div>
               <a :href="pdfUrl" download="Curriculo.pdf" target="_blank" class="mt-4 inline-flex text-white bg-teal-700 border-0 py-1 px-4 focus:outline-none hover:bg-teal-800 rounded dark:bg-indigo-700 dark:hover:bg-indigo-800">Download CV</a>
             </div>
             <div class="w-1/3 text-center">
               <h2 class="title-font font-medium text-3xl text-teal-500 dark:text-indigo-500">+3</h2>
-              <p class="leading-relaxed text-zinc-100 dark:text-zinc-100">Experiências profissional</p>
+              <p class="leading-relaxed text-zinc-100 dark:text-zinc-100">Anos de experiências profissional</p>
             </div>
             <div class="w-1/3 text-center">
               <h2 class="title-font font-medium text-3xl text-teal-500 dark:text-indigo-500">+10</h2>

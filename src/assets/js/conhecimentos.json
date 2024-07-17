@@ -10,16 +10,6 @@
         "imagem": "devicon-angular-plain",
         "descricao": "Angular é uma plataforma de aplicações web de código-fonte aberto e front-end baseado em TypeScript liderado pela Equipe Angular do Google e por uma comunidade de indivíduos e corporações. Angular é uma reescrita completa do AngularJS, feito pela mesma equipe que o construiu."
     },{
-        "nome": "apache",
-        "titulo" : "servidor",
-        "imagem": "devicon-apache-plain",
-        "descricao": "O Servidor HTTP Apache é um servidor do tipo HTTPD (do inglês: HTTPd stands for Hypertext Transfer Protocol daemon), compatível com o protocolo HTTP. Suas funcionalidades são mantidas através de uma estrutura de módulos, permitindo inclusive que o usuário escreva seus próprios módulos utilizando a API do software."
-    },{
-        "nome": "bitbucket",
-        "titulo" : "gerenciador de repositório",
-        "imagem": "devicon-bitbucket-original",
-        "descricao": "O Bitbucket Cloud é uma ferramenta de hospedagem de código e colaboração baseada em Git, criada para equipes. As melhores integrações da categoria do Jira e do Trello da Bitbucket são projetadas para reunir toda a equipe de software para executar um projeto."
-    },{
         "nome": "bootstrap",
         "titulo" : "framework",
         "imagem": "devicon-bootstrap-plain",
@@ -29,11 +19,6 @@
         "titulo" : "linguagem de programação",
         "imagem": "devicon-c-plain",
         "descricao": "C é uma linguagem de programação compilada de propósito geral, estruturada, imperativa, procedural, padronizada pela Organização Internacional para Padronização, criada em 1972 por Dennis Ritchie na empresa AT&T Bell Labs para desenvolvimento do sistema operacional Unix."
-    },{
-        "nome": "canva",
-        "titulo" : "software",
-        "imagem": "devicon-canva-original",
-        "descricao": "Canva é uma plataforma de design gráfico que permite aos usuários criar gráficos de mídia social, apresentações, infográficos, pôsteres e outros conteúdos visuais."
     },{
         "nome": "composer",
         "titulo" : "gerenciador de dependências",
@@ -50,21 +35,6 @@
         "imagem": "devicon-docker-plain-wordmark",
         "descricao": "Docker é um conjunto de produtos de plataforma como serviço que usam virtualização de nível de sistema operacional para entregar software em pacotes chamados contêineres. Os contêineres são isolados uns dos outros e agrupam seus próprios softwares, bibliotecas e arquivos de configuração."
     },{
-        "nome": "electron",
-        "titulo" : "framework",
-        "imagem": "devicon-electron-original",
-        "descricao": "Electron é um framework de código aberto criado por Cheng Zhao, e agora desenvolvido pelo GitHub. Ele permite desenvolver aplicações para desktop GUI usando componentes front end e back end originalmente criados para aplicações web: Node.js para o back end e Chromium para o front end."
-    },{
-        "nome": "figma",
-        "titulo" : "software",
-        "imagem": "devicon-figma-plain",
-        "descricao": "Figma é um editor gráfico de vetor e prototipagem de projetos de design baseado principalmente no navegador web, com ferramentas offline adicionais para aplicações desktop para GNU/Linux, macOS e Windows."
-    },{
-        "nome": "filezilla",
-        "titulo" : "cliente FTP, SFTP e FTPS",
-        "imagem": "devicon-filezilla-plain",
-        "descricao": "FileZilla é um cliente FTP, SFTP e FTPS de código livre para Microsoft Windows e GNU/Linux. É distribuído em licença GNU General Public License. Desde 1 de março de 2007 ocupa a 9ª posição na lista dos mais baixados do SourceForge, desbancando nomes como phpBB, Pidgin e MinGW."
-    },{
         "nome": "git",
         "titulo" : "sistema de controle de versões",
         "imagem": "devicon-git-plain",
@@ -74,11 +44,6 @@
         "titulo" : "gerenciador de repositório",
         "imagem": "devicon-github-original",
         "descricao": "GitHub é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git. Ele permite que programadores, utilitários ou qualquer usuário cadastrado na plataforma contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo."
-    },{
-        "nome": "gitlab",
-        "titulo" : "gerenciador de repositório",
-        "imagem": "devicon-gitlab-plain",
-        "descricao": "O GitLab é um gerenciador de repositório de software baseado em git, com suporte a Wiki, gerenciamento de tarefas e CI/CD. GitLab é similar ao GitHub, mas o GitLab permite que os desenvolvedores armazenem o código em seus próprios servidores, ao invés de servidores de terceiros."
     },{
         "nome": "html",
         "titulo" : "linguagem de marcação",
@@ -90,16 +55,6 @@
         "imagem": "devicon-illustrator-plain",
         "descricao": "Adobe Illustrator é um editor de imagens vetoriais desenvolvido e comercializado pela Adobe Systems. Foi criado inicialmente para o Apple Macintosh em 1985, e, foi comercializado para todo o público em 1995 como complemento comercial de software de fontes da Adobe e da tecnologia PostScript desenvolvida pela empresa."
     },{
-        "nome": "insomnia",
-        "titulo" : "plataforma api",
-        "imagem": "devicon-insomnia-plain",
-        "descricao": "Insomnia é uma aplicação Open Source para desenvolvimento/teste de API Clients. Ele pode ser usado para envio de requisições REST, SOAP, GraphQ e GRPC. Com esta ferramenta torna-se possível realizar a documentação, automação e com a sua versão CLI tools é possível implementar testes em pipeline."
-    },{
-        "nome": "intellij",
-        "titulo" : "ambiente de desenvolvimento",
-        "imagem": "devicon-intellij-plain",
-        "descricao": "IntelliJ IDEA é um ambiente de desenvolvimento integrado escrito em Java para o desenvolvimento de software de computador escrito em Java, Kotlin, Groovy e outras linguagens baseadas em JVM."
-    },{
         "nome": "java",
         "titulo" : "linguagem de programação",
         "imagem": "devicon-java-plain",
@@ -109,11 +64,6 @@
         "titulo" : "linguagem de programação",
         "imagem": "devicon-javascript-plain",
         "descricao": "JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma. Juntamente com HTML e CSS, o JavaScript é uma das três principais tecnologias da World Wide Web."
-    },{
-        "nome": "jira",
-        "titulo" : "software",
-        "imagem": "devicon-jira-plain",
-        "descricao": "Jira é um software comercial desenvolvido pela empresa Australiana Atlassian. É uma ferramenta que permite o monitoramento de tarefas e acompanhamento de projetos garantindo o gerenciamento de todas as suas atividades em único lugar."
     },{
         "nome": "jquery",
         "titulo" : "biblioteca",
@@ -125,35 +75,10 @@
         "imagem": "devicon-json-plain",
         "descricao": "Em computação, JSON, um acrônimo de JavaScript Object Notation, é um formato compacto, de padrão aberto independente, de troca de dados simples e rápida entre sistemas, especificado por Douglas Crockford em 2000, que utiliza texto legível a humanos, no formato atributo-valor."
     },{
-        "nome": "junit",
-        "titulo" : "framework",
-        "imagem": "devicon-junit-plain-wordmark",
-        "descricao": "O JUnit é um framework open-source, que se assemelha ao raio de testes software java, criado por Erich Gamma e Kent Beck, com suporte à criação de testes automatizados na linguagem de programação Java. Esse framework facilita a criação e manutenção do código para a automação de testes com apresentação dos resultados."
-    },{
-        "nome": "kotlin",
-        "titulo" : "linguagem de programação",
-        "imagem": "devicon-kotlin-plain",
-        "descricao": "Kotlin é uma linguagem de programação multiplataforma, orientada a objetos e funcional, concisa e estaticamente tipada, desenvolvida pela JetBrains em 2011, que compila para a Máquina virtual Java e que também pode ser traduzida para a linguagem JavaScript e compilada para código nativo."
-    },{
         "nome": "laravel",
         "titulo" : "framework",
         "imagem": "devicon-laravel-original",
         "descricao": "Laravel é um framework PHP livre e open-source criado por Taylor B. Otwell para o desenvolvimento de sistemas web que utilizam o padrão MVC."
-    },{
-        "nome": "less",
-        "titulo" : "linguagem de estilo",
-        "imagem": "devicon-less-plain-wordmark",
-        "descricao": "Less é uma linguagem de folha de estilos dinâmica desenhada por Alexis Sellier. Ela foi influenciada por Sass e influenciou a nova sintaxe 'SCSS' do Sass, que adaptou sua sintaxe de formação de blocos do tipo CSS. LESS é de código aberto."
-    },{
-        "nome": "livewire",
-        "titulo" : "biblioteca",
-        "imagem": "devicon-livewire-plain",
-        "descricao": "Livewire é uma biblioteca PHP que permite criar aplicativos da web interativos e ricos em recursos sem a necessidade de escrever código JavaScript complexo."
-    },{
-        "nome": "maven",
-        "titulo" : "software",
-        "imagem": "devicon-maven-plain",
-        "descricao": "Apache Maven, ou Maven, é uma ferramenta de automação de compilação utilizada primariamente em projetos Java. Ela é similar à ferramenta Ant, mas é baseada em conceitos e trabalhos diferentes em um modo diferente. Também é utilizada para construir e gerenciar projetos escritos em C#, Ruby, Scala e outras linguagens."
     },{
         "nome": "mysql",
         "titulo" : "banco de dados",
@@ -165,25 +90,10 @@
         "imagem": "devicon-nodejs-plain",
         "descricao": "Node.js é um software de código aberto, multiplataforma, baseado no interpretador V8 do Google e que permite a execução de códigos JavaScript fora de um navegador web. A principal característica do Node.js é sua arquitetura assíncrona e orientada por eventos."
     },{
-        "nome": "notion",
-        "titulo" : "software",
-        "imagem": "devicon-notion-plain",
-        "descricao": "Notion é um aplicativo da web freemium para produtividade e anotações desenvolvido pela Notion Labs Inc. Ele oferece ferramentas organizacionais, incluindo gerenciamento de tarefas, rastreamento de projetos, listas de tarefas e marcadores."
-    },{
         "nome": "npm",
         "titulo" : "gerenciador de pacotes",
         "imagem": "devicon-npm-original-wordmark",
         "descricao": "Npm é um gerenciador de pacotes para o Node.JS npm, Inc. é uma subsidiária do GitHub, que fornece hospedagem para desenvolvimento de software e controle de versão com o uso do Git. npm é o gerenciador de pacotes padrão para o ambiente de tempo de execução JavaScript Node.js."
-    },{
-        "nome": "oauth",
-        "titulo" : "protocolo de internet",
-        "imagem": "devicon-oauth-plain",
-        "descricao": "OAuth é um padrão aberto de delegação de autorização, comumente utilizado para permitir que os usuários da Internet possam fazer logon em sites de terceiros usando contas de um provedor de identidade, como Google, Facebook, Microsoft, Twitter, etc.—mas, sem expor credenciais de autenticação, como senhas."
-    },{
-        "nome": "photoshop",
-        "titulo" : "software",
-        "imagem": "devicon-photoshop-plain",
-        "descricao": "Adobe Photoshop é um software caracterizado como editor de imagens bidimensionais do tipo raster desenvolvido pela Adobe Systems. É considerado o líder no mercado dos editores de imagem profissionais, assim como o programa de facto para edição profissional de imagens digitais e trabalhos de pré-impressão."
     },{
         "nome": "php",
         "titulo" : "linguagem de programação",
@@ -200,11 +110,6 @@
         "imagem": "devicon-postman-plain",
         "descricao": "Postman é uma aplicação que permite testar APIs web. O software foi criado em 2012 por Abhinav Asthana, Ankit Sobti e Abhijit Kane em Bangalore, Índia, para resolver o problema de compartilhamento de testes de API."
     },{
-        "nome": "premiere pro",
-        "titulo" : "linguagem de programação",
-        "imagem": "devicon-premierepro-plain",
-        "descricao": "Adobe Premiere Pro é um programa de computador, da empresa Adobe Systems, que é empregado para a edição de vídeos profissionais."
-    },{
         "nome": "python",
         "titulo" : "linguagem de programação",
         "imagem": "devicon-python-plain",
@@ -215,35 +120,15 @@
         "imagem": "devicon-quasar-plain",
         "descricao": "Quasar Framework é uma estrutura de código aberto baseada em Vue.js para construir aplicativos com uma única base de código. Ele pode ser implantado na Web como SPA, PWA, SSR, em um aplicativo móvel, usando Cordova para iOS e Android, e em um aplicativo de desktop, usando Electron para Mac, Windows e Linux."
     },{
-        "nome": "react",
-        "titulo" : "biblioteca",
-        "imagem": "devicon-react-original",
-        "descricao": "O React é uma biblioteca front-end JavaScript de código aberto com foco em criar interfaces de usuário em páginas web."
-    },{
         "nome": "sass",
         "titulo" : "linguagem de estilo",
         "imagem": "devicon-sass-original",
         "descricao": "Sass é uma linguagem de folhas de estilo concebida inicialmente por Hampton Catlin e desenvolvida por Natalie Weizenbaum. Depois de suas versões iniciais, Weizenbaum e Chris Eppstein continuaram a estender Sass com SassScript, uma simples linguagem de script usada em arquivos Sass."
     },{
-        "nome": "slack",
-        "titulo" : "software",
-        "imagem": "devicon-slack-plain",
-        "descricao": "Slack é uma plataforma de comunicação de equipe baseada em nuvem desenvolvida pela Slack Technologies, que desde 2020 é propriedade da Salesforce."
-    },{
         "nome": "spring",
         "titulo" : "linguagem de programação",
         "imagem": "devicon-spring-original",
         "descricao": "O Spring é um framework open source para a plataforma Java criado por Rod Johnson e descrito em seu livro 'Expert One-on-One: JEE Design e Development'. Trata-se de um framework não intrusivo, baseado nos padrões de projeto inversão de controle e injeção de dependência."
-    },{
-        "nome": "symfony",
-        "titulo" : "framework",
-        "imagem": "devicon-symfony-original",
-        "descricao": "Symfony é um framework livre do tipo fullstack para desenvolvimento de aplicações web, com a linguagem PHP e o paradigma MVC, disponível sob a Licença MIT. É uma ferramenta com o uso via uma interface gráfica acessada via navegador web."
-    },{
-        "nome": "tailwindcss",
-        "titulo" : "biblioteca",
-        "imagem": "devicon-tailwindcss-original",
-        "descricao": "Tailwind CSS é uma estrutura CSS de código aberto. A principal característica desta biblioteca é que, ao contrário de outros frameworks CSS como Bootstrap, ela não fornece uma série de classes predefinidas para elementos como botões ou tabelas."
     },{
         "nome": "trello",
         "titulo" : "software",
@@ -259,11 +144,6 @@
         "titulo" : "framework",
         "imagem": "devicon-vuejs-plain",
         "descricao": "Vue.js é um framework JavaScript de código-aberto, focado no desenvolvimento de interfaces de usuário e aplicativos de página única."
-    },{
-        "nome": "webpack",
-        "titulo" : "empacotador de módulos",
-        "imagem": "devicon-webpack-plain",
-        "descricao": "O Webpack é um empacotador de módulos gratuito e de código aberto para JavaScript. Ele é feito principalmente para JavaScript, mas pode transformar ativos de front-end, como HTML, CSS e imagens, se os carregadores correspondentes forem incluídos."
     },{
         "nome": "xd",
         "titulo" : "software",
