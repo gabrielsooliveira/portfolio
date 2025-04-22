@@ -4,13 +4,7 @@
             <span class="ml-3 text-xl font-bold text-indigo-900 dark:text-indigo-50">GABRIEL DEV</span>
             <p class="text-sm text-zinc-500 sm:ml-4 sm:pl-4 sm:border-l-2 sm:border-zinc-200 sm:py-2 sm:mt-0 mt-4">© 2023</p>
             <span class="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">
-                
-            <a href="https://twitter.com/alvinzin1_" target="_blank" class="text-xl mx-2 text-zinc-600 transition-colors duration-100 transform dark:text-zinc-300 hover:text-indigo-900 dark:hover:text-teal-500" aria-label="Twitter">
-                <i class="fa-brands fa-twitter"></i>
-            </a>
-            <a href="https://www.instagram.com/alvinzin1/" target="_blank" class="text-xl mx-2 text-zinc-600 transition-colors duration-100 transform dark:text-zinc-300 hover:text-indigo-900 dark:hover:text-teal-500" aria-label="Instagram">
-                <i class="fa-brands fa-instagram"></i>
-            </a>
+            
             <a href="https://www.linkedin.com/in/gabrielsouza99/" target="_blank" class="text-xl mx-2 text-zinc-600 transition-colors duration-100 transform dark:text-zinc-300 hover:text-indigo-900 dark:hover:text-teal-500" aria-label="Linkedln">
                 <i class="fa-brands fa-linkedin"></i>
             </a>
