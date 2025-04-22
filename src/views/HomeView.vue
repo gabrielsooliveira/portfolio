@@ -9,20 +9,8 @@
           <div class="flex flex-wrap -mx-4 mt-auto mb-auto lg:w-2/3 lg:pr-10">
             <div class="w-full lg:p-4 px-4 mb-6 text-zinc-100">
               <h1 class="title-font font-medium text-xl mb-2">Eu sou Gabriel Souza Oliveira, desenvolvedor fullstack</h1>
-              <div class="leading-relaxed">Programando há mais de 7 anos, comecei a programar desde 2017. Desenvolvi projetos com foco em PHP/Laravel e Vue.js em sua maioria para as empresas em que estive presente. Hoje estou terminando minha formação em ciências da computação e trabalhando como desenvolvedor fullstack na controladoria geral do município.</div>
+              <p class="leading-relaxed">Sou Gabriel Souza Oliveira, desenvolvedor fullstack com experiência em aplicações web e mobile, atuando principalmente com PHP (Laravel) e Vue.js. Tenho uma forte base em desenvolvimento de APIs, modelagem de banco de dados e criação de interfaces eficientes e intuitivas. Minha trajetória combina vivências técnicas com experiências em liderança, comunicação e trabalho em equipe, desenvolvidas tanto em projetos acadêmicos quanto profissionais. Participei ativamente de iniciativas que estimulam a troca de conhecimento, como ligas acadêmicas e empresas juniores, o que fortaleceu minha capacidade de colaborar, aprender rápido e entregar soluções de impacto em diferentes contextos.</p>
               <a :href="pdfUrl" download="Curriculo.pdf" target="_blank" class="mt-4 inline-flex text-white bg-teal-700 border-0 py-1 px-4 focus:outline-none hover:bg-teal-800 rounded dark:bg-indigo-700 dark:hover:bg-indigo-800">Download CV</a>
-            </div>
-            <div class="w-1/3 text-center">
-              <h2 class="title-font font-medium text-3xl text-teal-500 dark:text-indigo-500">+3</h2>
-              <p class="leading-relaxed text-zinc-100 dark:text-zinc-100">Anos de experiências profissional</p>
-            </div>
-            <div class="w-1/3 text-center">
-              <h2 class="title-font font-medium text-3xl text-teal-500 dark:text-indigo-500">+10</h2>
-              <p class="leading-relaxed text-zinc-100 dark:text-zinc-100">Projetos realizados</p>
-            </div>
-            <div class="w-1/3 text-center">
-              <h2 class="title-font font-medium text-3xl text-teal-500 dark:text-indigo-500">3</h2>
-              <p class="leading-relaxed text-zinc-100 dark:text-zinc-100">Empresas trabalhadas</p>
             </div>
           </div>
         </div>

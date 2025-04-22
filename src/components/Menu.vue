@@ -9,7 +9,7 @@
                 <div :class="[isNavbarOpen ? 'block' : 'hidden']" class="w-full block md:flex md:flex-wrap md:items-center md:justify-between md:w-auto md:relative md:mt-0">
                     <ul class="flex flex-col font-medium p-4 md:p-0 mt-4 gap-y-1 border border-indigo-100 rounded-lg bg-indigo-50 md:space-x-8 rtl:space-x-reverse md:flex-row md:mt-0 md:border-0 md:bg-zinc-50 dark:bg-teal-800 md:dark:bg-zinc-900 dark:border-teal-700">
                         <li>
-                            <router-link to="/"class="block py-2 px-3 text-white bg-indigo-700 rounded md:bg-transparent md:text-indigo-700 md:p-0 md:dark:text-white dark:bg-teal-600 md:dark:bg-transparent" aria-current="page">Inicio</router-link>
+                            <router-link to="/" class="block py-2 px-3 text-white bg-indigo-700 rounded md:bg-transparent md:text-indigo-700 md:p-0 md:dark:text-white dark:bg-teal-600 md:dark:bg-transparent" aria-current="page">Inicio</router-link>
                         </li>
                     </ul>
                     <button id="theme-toggle" type="button" class="text-indigo-700 dark:text-zinc-400 hover:bg-zinc-100 dark:hover:bg-zinc-700 rounded-lg text-sm p-2.5 my-2 ml-0 md:ml-10" @click="toggleDarkMode">
