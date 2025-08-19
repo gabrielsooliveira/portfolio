@@ -1,23 +1,20 @@
-// $primary:   #042366;
-// $light:     #F9FAFB;
-// $dark:      #101e3b;
-// $secondary: #9333EA;
-// $info:      #0EA5E9;
-// $success:   #10B981;
-// $danger:    #EF4444;
-// $warning:   #F59E0B;
-// $gray:      #6B7280;
-// $blue:      #1E40AF;
+$primary:   #1C352D; // verde escuro – títulos, navbar
+$secondary: #F2A65A; // laranja suave – botões ou highlights
+$info:      #4DB6AC; // verde-água – detalhes informativos
+$success:   #81C784; // verde claro – badges ou status positivos
+$danger:    #E57373; // vermelho suave – alertas
+$warning:   #FFD54F; // amarelo – destaque
+$light:     #F5F5F5; // fundo claro
+$dark:      #0A1713; // texto escuro, headers ou rodapé
 
-// $theme-colors: (
-//   "primary":   $primary,
-//   "secondary": $secondary,
-//   "info":      $info,
-//   "success":   $success,
-//   "danger":    $danger,
-//   "warning":   $warning,
-//   "gray":      $gray,
-//   "blue":      $blue,
-//   "light":     $light,
-//   "dark":      $dark
-// );
+
+$theme-colors: (
+  "primary":   $primary,
+  "secondary": $secondary,
+  "info":      $info,
+  "success":   $success,
+  "danger":    $danger,
+  "warning":   $warning,
+  "light":     $light,
+  "dark":      $dark
+);

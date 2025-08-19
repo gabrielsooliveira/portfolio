@@ -45,7 +45,7 @@ const socialMedias = [
 
     <div class="px-2 my-3 text-center">
         <ul class="nav justify-content-center gap-2">
-            <li v-for="socialMedia in socialMedias" :key="socialMedia.to" class="nav-item rounded-circle bg-dark d-flex align-items-center justify-content-center">
+            <li v-for="socialMedia in socialMedias" :key="socialMedia.to" class="nav-item rounded bg-dark">
                 <a href="#" class="nav-link link-light"><i :class="socialMedia.icon" /></a>
             </li>
         </ul>

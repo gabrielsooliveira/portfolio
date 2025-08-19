@@ -4,12 +4,12 @@ import ProjectDetailsView from '@/views/ProjectDetailsView.vue';
 
 const routes = [
   {
-    path: '/',
+    path: '/portfolio',
     name: 'home',
     component: HomeView
   },
   {
-    path: '/project/:id',
+    path: '/portfolio/project/:id',
     name: 'project-details',
     component: ProjectDetailsView
   }
