@@ -14,8 +14,8 @@ const emit = defineEmits(['toggle'])
 const menuItems = [
   { icon: 'fa-solid fa-home', label: 'Inicio', to: 'inital' },
   { icon: 'fa-solid fa-user', label: 'Sobre mim', to: 'about' },
-  { icon: 'fa-solid fa-file', label: 'Trajetória', to: 'experiences' },
   { icon: 'fa-solid fa-code', label: 'Projetos', to: 'projects' },
+  { icon: 'fa-solid fa-file', label: 'Trajetória', to: 'experiences' },
   { icon: 'fa-solid fa-brain', label: 'Conhecimentos', to: 'knowledge' },
   { icon: 'fa-solid fa-phone', label: 'Contato', to: 'contact' },
 ]

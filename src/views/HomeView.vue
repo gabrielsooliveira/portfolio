@@ -11,8 +11,8 @@ import ContactSection from '@/views/HomeSections/ContactSection.vue';
 <template>
   <InitialSection></InitialSection>
   <AboutSection></AboutSection>
+  <ProjectSection></ProjectSection>
   <ExperienceSection></ExperienceSection>
-    <ProjectSection></ProjectSection>
   <KnowledgeSection></KnowledgeSection>
   <ContactSection></ContactSection>
 </template>

@@ -7,14 +7,13 @@ $warning:   #FFD54F; // amarelo – destaque
 $light:     #F5F5F5; // fundo claro
 $dark:      #0A1713; // texto escuro, headers ou rodapé
 
-
 $theme-colors: (
-  "primary":   $primary,
+  "primary": $primary,
   "secondary": $secondary,
-  "info":      $info,
-  "success":   $success,
-  "danger":    $danger,
-  "warning":   $warning,
-  "light":     $light,
-  "dark":      $dark
+  "info": $info,
+  "success": $success,
+  "danger": $danger,
+  "warning": $warning,
+  "light": $light,
+  "dark": $dark,
 );
