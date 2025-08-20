@@ -28,21 +28,21 @@ const experienciasAcademicas = [
     titulo: "Assessor de Comunicação",
     empresa: "NEJ Salvador",
     periodo: "abr 2019 - jul 2019",
-    descricao: "Integrei o primeiro time do Núcleo de Empresas Juniores de Salvador, atuando na área de comunicação e mídias sociais.",
+    descricao: "Integrei o primeiro time do Núcleo de Empresas Juniores de Salvador, onde desempenhei um papel na área de comunicação e mídias sociais. Minhas responsabilidades incluíram a gestão de anúncios do núcleo e a criação de conteúdo.",
     icone: "fa-solid fa-building-circle-check"
   },
   {
     titulo: "diretor de marketing e vendas",
     empresa: "Praxis Empresa Jr",
     periodo: "jan 2019 - jul 2019",
-    descricao: "Desenvolvi habilidades de liderança e colaboração ao assumir a diretoria de Marketing e Vendas, contribuindo com estratégias de expansão e relacionamento com clientes.",
+    descricao: "Com foco em conhecer novas áreas e testar o senso de adaptação à uma nova realidade, atuei no cargo de diretor de Marketing e vendas, onde consegui desenvolver ainda mais minhas skills de liderança e de trabalho em equipe, além de expandir o networking e soft skills necessárias para o mercado de trabalho.",
     icone: "fa-solid fa-building-circle-check"
   },
   {
     titulo: "projetista do núcleo de T.I",
     empresa: "Praxis Empresa Jr",
     periodo: "jan 2018 - jul 2019",
-    descricao: "Atuei em projetos de tecnologia, desenvolvendo soluções para clientes e adquirindo experiência prática em desenvolvimento web e gestão de demandas reais.",
+    descricao: "Atuei em projetos de desenvolvimento web para clientes reais que necessitavam da ajuda de profissional para desenvolver seus sistemas e sites e procuravam na Praxis Empresa Jr. estudantes com esse perfil e com a competência para desenvolver seus projetos.",
     icone: "fa-solid fa-building-circle-check"
   },
   {
@@ -59,14 +59,14 @@ const experienciasOutras = [
     titulo: "Top 10 projetos (BIMI)",
     empresa: "Hackathon Bemobi",
     periodo: "nov 2024",
-    descricao: "Integrei o primeiro time do Núcleo de Empresas Juniores de Salvador, atuando na área de comunicação e mídias sociais.",
+    descricao: "O Bimi é um projeto de atendente virtual com inteligência artificial Com a integração da IA ​​alimentada pela Gemini, o BIMI oferece interações altamente personalizadas e eficientes, aprimorando a experiência do usuário e automatizando processos de atendimento. Este sistema visa otimizar o tempo de resposta e fornecer um suporte melhor qualidade.",
     icone: "fa-solid fa-diagram-project"
   },
   {
-    titulo: "Top 6 projetos (Irrigago)",
+    titulo: "Top 6 projetos (IrrigaGo)",
     empresa: "Hackathon CPGoiás4",
     periodo: "nov 2024",
-    descricao: "Integrei o primeiro time do Núcleo de Empresas Juniores de Salvador, atuando na área de comunicação e mídias sociais.",
+    descricao: "O IrrigaGo é um sitema de gerenciamento de irrigação da plantação de fazendas, com verificação climatica das regiões, analise de qualidade da água",
     icone: "fa-solid fa-diagram-project"
   },
   {
@@ -87,7 +87,7 @@ const experienciasOutras = [
 </script>
 
 <template>
-  <section id="experiences" class="py-5 min-vh-100 bg-light bg-gradient">
+  <section id="experiences" class="py-5 mt-3 min-vh-100 bg-light bg-gradient">
     <div class="px-5 mx-4">
       <h2 class="fs-1 fw-bold mb-5 text-secondary">Um pouco sobre minhas experiências...</h2>
       <div class="row">

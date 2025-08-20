@@ -3,11 +3,11 @@
 </script>
 
 <template>
-    <section id="about" class="py-5 bg-dark min-vh-100 d-flex justify-items-center align-items-center">
+    <section id="about" class="py-5 mt-2 bg-dark min-vh-100 d-flex justify-items-center align-items-center">
         <div class="px-5 mx-4 text-light">
             <div class="row align-items-center">
                 <div class="col-lg-4 mb-4 mb-lg-0 anim-slide-up">
-                    <img src="https://dummyimage.com/600x800/39393b/fff&text=Perfil" class="d-block w-100 rounded" alt="Projeto 1">
+                    <img src="https://dummyimage.com/600x800/39393b/fff&text=Perfil" class="d-block w-100 rounded border border-light border-3" alt="Projeto 1">
                 </div>
 
                 <div class="col-lg-7 offset-lg-1 anim-slide-up anim-delay-1">

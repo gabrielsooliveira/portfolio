@@ -56,12 +56,12 @@ const knowledge = ref([
       </div>
 
       <div class="row g-4">
-        <div v-for="(category, index) in knowledge" :key="index" class="col-4">
+        <div v-for="(category, index) in knowledge" :key="index" class="col-md-4">
           <div class="card bg-primary text-white shadow border-0">
             <div class="card-body">
               <h5 class="text-secondary fw-bold mb-4">{{ category.title }}</h5>
               <div class="row g-3">
-                <div v-for="(item, i) in category.items" :key="i" class="col-6 col-md-4">
+                <div v-for="(item, i) in category.items" :key="i" class="col-md-4">
                   <div class="skill-card d-flex align-items-center p-3 bg-dark rounded-3 h-100 shadow-sm">
                     <i :class="[item.icon ? item.icon : 'fa-solid fa-code', item.color, 'fs-3 me-3']"></i>
                     <span class="fw-semibold">{{ item.name }}</span>
