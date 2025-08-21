@@ -1,0 +1,30 @@
+[
+    {
+        "name": "API de Usuarios",
+        "description": "API REST para consulta de dados de usuario para realização de teste de rotas usando swagger.",
+        "github": "https://github.com/gabrielsooliveira/api-laravel",
+        "website": "",
+        "type": "API"
+    },
+    {
+        "name": "BIMI",
+        "description": "Este projeto é um sistema de atendente virtual que utiliza inteligência artificial para fornecer respostas rápidas e precisas aos usuários.",
+        "github": "https://github.com/gabrielsooliveira/bimi",
+        "website": "",
+        "type": "Web App"
+    },
+    {
+        "name": "IrrigaGo",
+        "description": "API REST para consulta de dados de usuario para realização de teste de rotas usando swagger.",
+        "github": "https://github.com/gabrielsooliveira/hackathon-cpgoias4",
+        "website": "",
+        "type": "Web App"
+    },
+    {
+        "name": "API de Empenhos",
+        "description": "API REST para consulta de dados publicos da prefeitura de Salvador, para utilização sobre consulta de empenhos, liquidações e pagamentos realizados pela prefeitura.",
+        "github": "",
+        "website": "https://api-empenhos-homologa.salvador.ba.gov.br/api/documentation",
+        "type": "API"
+    }
+]

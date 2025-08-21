@@ -1,0 +1,35 @@
+{
+    "Linguagens e Frameworks": [
+        { "name": "HTML5", "icon": "fa-brands fa-html5", "color": "text-danger" },
+        { "name": "CSS3", "icon": "fa-brands fa-css3-alt", "color": "text-light" },
+        { "name": "JavaScript", "icon": "fa-brands fa-js", "color": "text-warning" },
+        { "name": "PHP", "icon": "fa-brands fa-php", "color": "text-info" },
+        { "name": "Python", "icon": "fa-brands fa-python", "color": "text-success" },
+        { "name": "Java", "icon": "fa-brands fa-java", "color": "text-danger" },
+        { "name": "Vue.js", "icon": "fa-brands fa-vuejs", "color": "text-success" },
+        { "name": "Spring Boot", "icon": "fa-solid fa-leaf", "color": "text-success" },
+        { "name": "Angular", "icon": "fa-brands fa-angular", "color": "text-danger" },
+        { "name": "jQuery", "color": "text-light" },
+        { "name": "Bootstrap", "icon": "fa-brands fa-bootstrap", "color": "text-purple" },
+        { "name": "Quasar", "icon": "fa-solid fa-gem", "color": "text-info" },
+        { "name": "Ionic", "color": "text-light" }
+    ],
+    "Metodologias e Ferramentas": [
+      { "name": "Scrum", "icon": "fa-solid fa-people-group", "color": "text-success" },
+      { "name": "Kanban", "icon": "fa-solid fa-table-columns", "color": "text-info" },
+      { "name": "Git", "icon": "fa-brands fa-git-alt", "color": "text-danger" },
+      { "name": "Docker", "icon": "fa-brands fa-docker", "color": "text-light" },
+      { "name": "Grafana", "icon": "fa-solid fa-chart-line", "color": "text-warning" },
+      { "name": "API RESTful", "icon": "fa-solid fa-network-wired", "color": "text-success" },
+      { "name": "JWT", "color": "text-light" },
+      { "name": "Design Patterns", "icon": "fa-solid fa-diagram-project", "color": "text-info" },
+      { "name": "DDD", "icon": "fa-solid fa-cubes", "color": "text-light" },
+      { "name": "Maven", "icon": "fa-solid fa-gears", "color": "text-danger" },
+      { "name": "Firebase", "icon": "fa-solid fa-fire", "color": "text-warning" }
+    ],
+    "Banco de Dados": [
+      { "name": "MySQL", "icon": "fa-solid fa-database", "color": "text-warning" },
+      { "name": "SQL Server", "icon": "fa-solid fa-server", "color": "text-info" },
+      { "name": "PostgreSQL", "icon": "fa-solid fa-database", "color": "text-light" }
+    ]
+}
