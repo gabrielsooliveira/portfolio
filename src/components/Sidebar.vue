@@ -1,15 +1,16 @@
 <script setup>
 import { defineProps, defineEmits, ref, defineExpose } from 'vue'
-import mainImage from '@/assets/images/perfil.png'
-const sidebar = ref(null)
+import mainImage from '@/assets/images/perfil.png';
 
-defineExpose({ sidebar })
+const sidebar = ref(null);
+
+defineExpose({ sidebar });
 
 const props = defineProps({
-  isOpen: Boolean,
+  isOpen: Boolean
 })
 
-const emit = defineEmits(['toggle'])
+const emit = defineEmits(['toggle']);
 
 const menuItems = [
   { icon: 'fa-solid fa-home', label: 'Inicio', to: 'inital' },
@@ -18,15 +19,14 @@ const menuItems = [
   { icon: 'fa-solid fa-file', label: 'Trajetória', to: 'experiences' },
   { icon: 'fa-solid fa-brain', label: 'Conhecimentos', to: 'knowledge' },
   { icon: 'fa-solid fa-phone', label: 'Contato', to: 'contact' },
-]
+];
 
 const socialMedias = [
-    { icon: 'fa-brands fa-facebook', label: 'facebook' },
-    { icon: 'fa-brands fa-instagram', label: 'facebook' },
-    { icon: 'fa-brands fa-github', label: 'facebook' },
-    { icon: 'fa-brands fa-x-twitter', label: 'facebook' },
-    { icon: 'fa-brands fa-linkedin', label: 'facebook' }
-]
+    { icon: 'fa-brands fa-instagram', label: 'instagram', link: 'https://www.instagram.com/gabrielsooliveira' },
+    { icon: 'fa-brands fa-github', label: 'github', link: 'https://github.com/gabrielsooliveira' },
+    { icon: 'fa-brands fa-x-twitter', label: 'twitter', link: 'https://x.com/alvinzin1_' },
+    { icon: 'fa-brands fa-linkedin', label: 'linkedin', link: 'https://www.linkedin.com/in/gabrielsouza99' }
+];
 </script>
 
 <template>
@@ -36,7 +36,7 @@ const socialMedias = [
     :class="{ open: isOpen }"
   >
     <div class="mx-5 mt-3 px-2">
-      <img src="https://dummyimage.com/600x600/39393b/fff&text=Perfil" alt="main-photo" class="img-fluid rounded-circle border border-white border-5" />
+      <img :src="mainImage" alt="main-photo" class="img-fluid rounded-circle border border-white border-5" />
     </div>
 
     <router-link to="/" class="d-flex align-items-center justify-content-center text-white text-decoration-none">
@@ -46,7 +46,7 @@ const socialMedias = [
     <div class="px-2 my-3 text-center">
         <ul class="nav justify-content-center gap-2">
             <li v-for="socialMedia in socialMedias" :key="socialMedia.to" class="nav-item rounded bg-dark">
-                <a href="#" class="nav-link link-light"><i :class="socialMedia.icon" /></a>
+                <a :href="socialMedia.link" target="_blank" class="nav-link link-light"><i :class="socialMedia.icon" /></a>
             </li>
         </ul>
     </div>
