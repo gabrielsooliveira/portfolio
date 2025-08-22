@@ -5,7 +5,7 @@ import Conhecimentos from '@/assets/jsons/conhecimentos.json';
 
 <template>
   <section id="knowledge" class="min-vh-100 d-flex align-items-center bg-dark text-white">
-    <div class="p-5 mx-4 mt-3">
+    <div class="p-5 mx-2 mt-3">
       <div class="text-center mb-5">
         <h2 class="fw-bold display-1 text-secondary">Conhecimentos</h2>
         <p class="text-light fs-5">Um pouco sobre minhas habilidades técnicas.</p>
