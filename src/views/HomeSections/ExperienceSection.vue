@@ -3,8 +3,8 @@ import Trajetorias from '@/assets/jsons/trajetorias.json';
 </script>
 
 <template>
-  <section id="experiences" class="py-5 min-vh-100 bg-light bg-gradient">
-    <div class="px-5 mx-4 mt-3">
+  <section id="experiences" class="min-vh-100 bg-light bg-gradient">
+    <div class="container py-5">
       <h2 class="fs-1 fw-bold mb-5 text-secondary">Um pouco sobre minhas experiências...</h2>
       <div class="row">
         <!-- Coluna Profissional -->

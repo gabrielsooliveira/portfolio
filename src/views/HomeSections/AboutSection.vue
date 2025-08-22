@@ -3,10 +3,10 @@ import mainImage from '@/assets/images/perfil.png';
 </script>
 
 <template>
-    <section id="about" class="py-5 bg-dark min-vh-100 d-flex justify-items-center align-items-center">
-        <div class="px-5 mx-4 mt-3 text-light">
+    <section id="about" class="bg-dark min-vh-100 d-flex justify-items-center align-items-center">
+        <div class="container py-5 text-light">
             <div class="row align-items-center">
-                <div class="col-lg-4 mb-4 mb-lg-0 anim-slide-up">
+                <div class="col-lg-4 mb-4 mb-lg-0 anim-slide-up mt-3">
                     <img :src="mainImage" class="d-block w-100 rounded border border-light border-3" alt="Perfil">
                 </div>
 

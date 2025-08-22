@@ -5,7 +5,7 @@ import Conhecimentos from '@/assets/jsons/conhecimentos.json';
 
 <template>
   <section id="knowledge" class="min-vh-100 d-flex align-items-center bg-dark text-white">
-    <div class="p-5 mx-2 mt-3">
+    <div class="px-4 py-5">
       <div class="text-center mb-5">
         <h2 class="fw-bold display-1 text-secondary">Conhecimentos</h2>
         <p class="text-light fs-5">Um pouco sobre minhas habilidades técnicas.</p>
@@ -19,8 +19,8 @@ import Conhecimentos from '@/assets/jsons/conhecimentos.json';
               <div class="row g-3">
                 <div v-for="(item, i) in items" :key="i" class="col-lg-4">
                   <div class="skill-card d-flex align-items-center p-3 bg-dark rounded-3 h-100 shadow-sm">
-                    <i :class="[item.icon ? item.icon : 'fa-solid fa-code', item.color, 'fs-3 me-3']"></i>
-                    <span class="fw-semibold">{{ item.name }}</span>
+                    <i :class="[item.icon ? item.icon : 'fa-solid fa-code', item.color, 'fs-3 me-2']"></i>
+                    <span class="fw-semibold ">{{ item.name }}</span>
                   </div>
                 </div>
               </div>
